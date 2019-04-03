@@ -8,6 +8,7 @@ package com.sukin.domain;
  */
 public class User {
 //	nihao2
+//	这里是dev分支
 
 	private Integer id;
 	private String name;
