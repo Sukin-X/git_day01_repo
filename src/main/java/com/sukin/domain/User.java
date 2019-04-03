@@ -7,6 +7,7 @@ package com.sukin.domain;
  * To change this template use File | Settings | File Templates.
  */
 public class User {
+//	nihao
 
 	private Integer id;
 	private String name;
